@@ -57,6 +57,10 @@
         <p>第8条数据</p>
       </loop-scroll>
     </div>
+
+    <div>
+      <barrage></barrage>
+    </div>
   </div>
 </template>
 
